@@ -1,6 +1,6 @@
 import socket, time;
 
-PORT = 3000;
+PORT = 3003;
 HOST = "localhost";
 
 s = socket.socket();
